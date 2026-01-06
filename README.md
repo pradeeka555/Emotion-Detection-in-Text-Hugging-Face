@@ -33,7 +33,7 @@ Vercel Deployment:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/selvaganesh19/Emotion-Detection-in-Text-Hugging-Face.git
+   git clone https://github.com/pradeeka555/Emotion-Detection-in-Text-Hugging-Face.git
    cd Emotion-Detection-in-Text-Hugging-Face
    ```
 
@@ -78,8 +78,6 @@ Contributions are welcome! To contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a Pull Request.
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
-
 ---
 
 ## 📄 License
@@ -107,4 +105,5 @@ Feel free to open issues for suggestions or bug reports! 🚀
 This project is licensed under the **MIT** License.
 
 ---
-🔗 GitHub Repo: https://github.com/selvaganesh19/Emotion-Detection-in-Text-Hugging-Face
+🔗 GitHub Repo: https://github.com/pradeeka555/Emotion-Detection-in-Text-Hugging-Face
+
